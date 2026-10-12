@@ -1,0 +1,3 @@
+scripts/.env
+*.bak
+scripts/.env.copia
